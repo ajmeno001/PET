@@ -1,8 +1,4 @@
 streamlit
-tensorflow
-pillow
-beautifulsoup4
-requests
-nltk
-opencv-python
-streamlit_gsheets
+pandas
+gspread
+oauth2client
