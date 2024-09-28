@@ -5,3 +5,4 @@ beautifulsoup4
 requests
 nltk
 opencv-python
+streamlit_gsheets
